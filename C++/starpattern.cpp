@@ -1,4 +1,4 @@
-//this program is for stat pattern printing
+//this program is for stat pattern printing in cpp
 #include <iostream>
 using namespace std;
 
